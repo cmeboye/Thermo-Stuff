@@ -2,6 +2,7 @@
 Thermodynamics II term project processes and cycles test
 
 Process functions list:
+
   1.heat_0(T1,h1,T2,h2,q,cp)=[x]; x=T1,h1,T2,h2,q,cp
   Basic heat exchanger with constant cp.
   
@@ -13,6 +14,7 @@ Process functions list:
   4.isochoric()
   
 Cycle functions list:
+
   1.brayton_0()=[x];
   
   2.brayton()=[x];
@@ -25,6 +27,7 @@ Additional functions:
   cp based on working fluid number n in wfluid.txt
   
 txt files:
+
   1.wfluid.txt
   Working fluid properties and n's
   
